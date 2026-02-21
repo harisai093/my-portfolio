@@ -14,7 +14,7 @@ export const Home = () => {
           <div className="relative group shrink-0">
             <div className="w-48 h-48 md:w-80 md:h-80 rounded-full border-2 border-blue-500/30 overflow-hidden transition-all duration-300 ...">
               <img 
-                src="my-portfolio/profile.jpg" 
+                src="profile.jpg" 
                 alt="Hari Sai Profile" 
                 className="w-full h-full object-cover ..."
               />
