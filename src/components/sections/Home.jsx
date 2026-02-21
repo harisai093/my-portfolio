@@ -1,5 +1,6 @@
 import { RevealOnScroll } from "../RevealOnScroll";
 import { FaDownload } from "react-icons/fa";
+import profileImg from "../../assets/profile.jpg";
 
 export const Home = () => {
   return (
@@ -14,8 +15,8 @@ export const Home = () => {
           <div className="relative group shrink-0">
             <div className="w-48 h-48 md:w-80 md:h-80 rounded-full border-2 border-blue-500/30 overflow-hidden transition-all duration-300 ...">
               <img 
-                src="my-portfolio/profile.jpg" 
-                alt="Hari Sai Profile" 
+                src={profileImg} 
+                alt="Profile" 
                 className="w-full h-full object-cover ..."
               />
             </div>
