@@ -89,5 +89,3 @@ npm run deploy
 📄 License
 
 This project is open-source and available under the MIT License.
-
-**Would you like me to help you create the actual `Contact.jsx` file now so that the "Contact Form" feature actually works?**
